@@ -1,4 +1,4 @@
-### Hi, I'm Harsh Agarwal
+## Hi, I'm Harsh Agarwal
 
 CS undergrad at NYU Tandon building toward staff-engineer-level systems work. I like shipping full-stack ML/AI products end to end and contributing back to the open-source tools I use daily.
 
